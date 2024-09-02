@@ -1,0 +1,29 @@
+ body{
+    background-color: rgb(32,32, 32);
+    color: antiquewhite;
+ }
+
+
+ .nome{
+    color: rgb(206, 1, 1);
+ }
+
+
+ .historia{
+    color: rgb(206, 1, 1);
+ }
+
+.interesses{
+    color: rgb(206, 1, 1);
+}
+
+.dracula{
+    border-style: inset;
+    border-color: darkred;
+}
+
+
+
+.foto:hover{
+    transform: scale(1.1);
+}
